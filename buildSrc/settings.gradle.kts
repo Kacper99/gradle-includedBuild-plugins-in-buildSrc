@@ -1,4 +1,4 @@
-rootProject.name = "build-logic"
+rootProject.name = "buildSrc"
 
 pluginManagement {
     // Allows plugins from `plugins` included build to be used in build-logic/build.gradle.kts
