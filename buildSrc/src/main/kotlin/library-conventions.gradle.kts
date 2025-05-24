@@ -1,7 +1,7 @@
 plugins {
     java
     `java-library`
-    id("com.kacpermartela.hello-plugin")
+    id("com.kacpermartela.hello-plugin") // Plugin from plugins/hello-plugin can be used here yay!
 }
 
 repositories {
